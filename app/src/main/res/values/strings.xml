@@ -1,5 +1,8 @@
 <resources>
-    <string name="app_name">customlist</string>
-    <!-- TODO: Remove or change this placeholder text -->
+    <string name="app_name">rudn20240923</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description_label">Короткое описание:</string>
+    <string name="List">Список объектов</string>
+    <string name="brief_description">Короткое описание:</string>
+    <string name="add_item">добавить заметку</string>
 </resources>
